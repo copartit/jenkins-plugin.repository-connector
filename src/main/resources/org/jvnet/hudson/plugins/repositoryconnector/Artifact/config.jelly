@@ -40,11 +40,11 @@
       </f:entry>
 
       <f:entry help="/plugin/repository-connector/help-deployToLocal.html" field="deployToLocal" title="${%DeployToLocal}">
-        <f:checkbox checked="true" />
+        <f:checkbox default="true" />
       </f:entry>
 
       <f:entry help="/plugin/repository-connector/help-deployToRemote.html" field="deployToRemote" title="${%DeployToRemote}">
-        <f:checkbox checked="true" />
+        <f:checkbox default="true" />
       </f:entry>
     </j:if>
   </f:advanced>

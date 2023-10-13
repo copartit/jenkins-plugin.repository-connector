@@ -10,7 +10,7 @@
 
   <artifactId>repository-connector</artifactId>
   <name>Repository Connector</name>
-  <version>2.2.2-copart</version>
+  <version>2.2.2-copart-1</version>
   <packaging>hpi</packaging>
 
   <dependencyManagement>
